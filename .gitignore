@@ -66,3 +66,15 @@ polyperfect
 polyperfect.meta
 Kenney Character Assets.meta
 /[Aa]ssets/Kenney Character Assets
+
+#ignore cut up fbx
+Assets/Prefabs/fin.fbx
+Assets/Prefabs/fin.fbx.meta
+Assets/Prefabs/left-wing.fbx
+Assets/Prefabs/left-wing.fbx.meta
+Assets/Prefabs/right-wing.fbx
+Assets/Prefabs/right-wing.fbx.meta
+Assets/Prefabs/space-shuttle-no-parts.fbx
+Assets/Prefabs/space-shuttle-no-parts.fbx.meta
+Assets/Prefabs/thrusters.fbx
+Assets/Prefabs/thrusters.fbx.meta
