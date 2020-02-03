@@ -1,7 +1,7 @@
 # Crash-O-nauts #
 
 ## Installation: ##
-If you just want to play the game, download the [Named Link](https://ggj.s3.amazonaws.com/games/2020/02/274215/exec/xyPW4/Build2.zip "Build2.zip") and run the .exe inside it. 
+If you just want to play the game, download the [Build2.zip](https://ggj.s3.amazonaws.com/games/2020/02/274215/exec/xyPW4/Build2.zip "Build2.zip") and run the .exe inside it. 
 
 ## Build: ##
 To build the Project these two Asset packs need to be bought:
