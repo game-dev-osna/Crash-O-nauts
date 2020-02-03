@@ -19,18 +19,18 @@ Because an asset from the Polyperfect pack was cut up for this, we can't distrib
 
 ## Credits: ##
 ### Jammers: ###
-Steffen Krüger
-Milena Jäger
-Florian Herrmann
-Denis Heitkamp
-Jonas Lüchau
+* Steffen Krüger
+* Milena Jäger
+* Florian Herrmann
+* Denis Heitkamp
+* Jonas Lüchau
 
 ### Music: ###
-"Caped Crusader Cat", 
-"Anomaly",
-"Here Come the Weirds",
-"Lightyears" &
-"Warped Alien Band"
+* "Caped Crusader Cat", 
+* "Anomaly",
+* "Here Come the Weirds",
+* "Lightyears" &
+* "Warped Alien Band"
 by Eric Matyas (soundimage.org)
 
 ### Sound Effects: ###
@@ -41,14 +41,11 @@ Eric Matyas (soundimage.org)
 SolarSystemScope
 (solarsystemscope.com)
 
-### Special Thanks to our
-local Site Organizers
-from Osnabrück,
-Germany: ###
-Erik Wittkorn
-Fabian Schlarmann
-Niels Meyering, 
-Tilman Geishauser
+### Special Thanks to our local Site Organizers from Osnabrück, Germany: ###
+* Erik Wittkorn
+* Fabian Schlarmann
+* Niels Meyering, 
+* Tilman Geishauser
 
 ## Game Stills: ##
 ![picture alt](https://ggj.s3.amazonaws.com/styles/game_content__wide/games/screenshots/2020/02/274215/asdasasdasddasd.png?itok=n0upmvzp&timestamp=1580656019 "Repairing")
